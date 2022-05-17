@@ -1,0 +1,86 @@
+#borderall {
+    width: 100%;
+    height: 800px;
+    border: 2px solid gray;
+}
+
+#borderito2 {
+    width: 95%;
+    height: 150px;
+    border: 2px solid gray;
+    margin: 50px ;
+    margin-top: 20px ;
+}
+
+#borderito3 {
+    width: 95%;
+    height: 100px;
+    border: 2px solid gray;
+    margin-top: 20px;
+    margin: 50px ;
+    margin-bottom: 20px;
+}
+
+.borderito {
+    width: 95%;
+    height: 300px;
+    border: 2px solid gray;
+    margin: 50px;
+    margin-bottom: 0px;
+}
+
+.textnaborder {
+    position: absolute;
+    top: 123px;
+    background: white;
+    left: 100px;
+}
+
+.textnaborder2 {
+    position: absolute;
+    background: white;
+    top: 447px;
+    left: 100px;
+}
+
+.textnaborder3 {
+    position: absolute;
+    background: white;
+    top: 650px;
+    left: 100px;
+}
+
+.abouty {
+    width: 300px;
+    height: 200px;
+    border: 2px solid gray;
+}
+
+.nameee {
+    position: relative;
+    margin-top: 40px;
+}
+
+.two {
+    width: 400px;
+    height: 100px; 
+}
+.twotwo {
+    vertical-align: bottom;
+}
+.distance1 {
+    margin-left: 20px;
+}
+
+.distance2{
+    margin-left: 50px;
+    margin-top: 0px;
+}
+
+.three {
+    margin-left: 20px;  
+}
+
+.ranger {
+    margin: 20px;
+}
